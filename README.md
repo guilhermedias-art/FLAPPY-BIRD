@@ -7,7 +7,7 @@ O sistema foi desenvolvido em setembro de 2025, como parte das atividades da dis
 
 A aplicação implementa toda a lógica do jogo, incluindo movimentação do personagem, geração dinâmica de obstáculos, detecção de colisões, sistema de pontuação e atualização contínua da interface gráfica.
 
-🎯 Objetivos do Projeto
+  ***🎯 Objetivos do Projeto***
 
 Aplicar conceitos fundamentais de Programação Orientada a Objetos
 
@@ -21,7 +21,10 @@ Simular física básica de movimento e gravidade
 
 Organizar um sistema modular baseado em classes e responsabilidades
 
-🧩 Funcionalidades Implementadas
+
+
+
+***🧩 Funcionalidades Implementadas*** 
 
 Movimento do personagem com ação de pulo controlada por tecla
 
@@ -39,7 +42,10 @@ Menu inicial do jogo
 
 Reinicialização da partida após derrota
 
-🛠 Tecnologias Utilizadas
+
+
+
+  ***🛠 Tecnologias Utilizadas***
 
 Java
 
@@ -53,7 +59,12 @@ Programação orientada a eventos
 
 Loop de jogo com atualização periódica
 
-🧠 Estrutura Geral do Sistema
+
+
+
+  ***🧠 Estrutura Geral do Sistema***
+  
+  
 
 O projeto foi organizado em classes com responsabilidades específicas, permitindo melhor organização e manutenção do código.
 
@@ -91,7 +102,13 @@ Exibição de pontuação
 
 Menus e telas de estado
 
-▶ Como Executar o Projeto
+
+
+
+
+  ***▶ Como Executar o Projeto***
+
+  
 Pré-requisitos
 
 Java JDK instalado (versão 8 ou superior)
@@ -102,13 +119,16 @@ Execução
 
 Clone o repositório:
 
-git clone https://github.com/guilhermedias-art/FLAPPY-BIRD
+    git clone https://github.com/guilhermedias-art/FLAPPY-BIRD
 
 Abra o projeto em sua IDE Java
 
-Execute a classe principal do jogo
+Execute a classe principal do jogo(App.js)
 
-🎮 Controles do Jogo
+
+
+
+  ***🎮 Controles do Jogo***
 
 Tecla de ação (ex: espaço ou clique) → faz o personagem subir
 
@@ -116,18 +136,5 @@ Desvie dos obstáculos para manter a partida ativa
 
 A pontuação aumenta conforme os obstáculos são ultrapassados
 
-📚 Conceitos de POO Aplicados
 
-Encapsulamento de atributos e comportamentos
 
-Separação de responsabilidades por classes
-
-Reutilização de código
-
-Manipulação de eventos
-
-Organização modular do sistema
-
-🎓 Contexto Acadêmico
-
-Projeto desenvolvido como atividade prática da disciplina de Programação Orientada a Objetos, com foco em desenvolvimento de aplicações gráficas interativas utilizando Java.
